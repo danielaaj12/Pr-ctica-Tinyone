@@ -1,6 +1,7 @@
 #header{
     padding-top: 6%;
     background-color: $yellow;
+    
 }
 
 .header1{
@@ -33,4 +34,18 @@
     color:$black;
     text-decoration: none;
     font-size: (22px / $fzparem + rem);
+}
+.imagen{
+    float: right;
+    margin: 132px;
+    position: absolute;
+    top: 6em;
+    
+}
+
+.features{
+    margin-left: -23px;
+    padding-bottom: 35px;
+    padding: 28px;
+
 }

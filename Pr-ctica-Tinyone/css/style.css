@@ -28,6 +28,17 @@
   text-decoration: none;
   font-size: 1.375rem; }
 
+.imagen {
+  float: right;
+  margin: 132px;
+  position: absolute;
+  top: 6em; }
+
+.features {
+  margin-left: -23px;
+  padding-bottom: 35px;
+  padding: 28px; }
+
 #slider {
   background-color: #fcdb00;
   padding-bottom: 11%; }
