@@ -1,1 +1,2 @@
-# Pr-ctica-Tinyone
+# Proyecto_Tinyone
+Practica con un PSD 
