@@ -3,7 +3,7 @@
 }
 .footer2{
     padding-top: 7.5%;
-    width: 940px;
+    max-width: 940px;
     margin: 0 auto;
     text-align: center;
     padding-bottom: 10%;
@@ -17,21 +17,29 @@
     color: $caja;
 }
 
-#space{
-    width: 56%;
+#barra{
+    max-width: 56%;
+    padding:12px 0 ;
+    border-radius: 5px;
+
 }
 
 #btn{
     background-color: $yellow;
     border: 0;
-    width: 12%;
+    max-width: 12%;
     border-radius: 5px;
     text-transform: uppercase;
     font-weight: bold;
+    padding: 14px;
+    margin: 12px;
 }
 
 #formulario{
     padding-bottom:8%; 
+    padding: 11px;
+    margin: 17px;
+    
 }
 
 .sprite{
@@ -41,25 +49,25 @@
 }
 
 .sprite-fb{
-    width: 55px;
+    max-width: 55px;
     height: 55px;
     background-position: 0px  -3px;
 }
 
 .sprite-t{
-    width: 55px;
+    max-width: 55px;
     height: 55px;
     background-position: -65px -3px;
 }
 
 .sprite-g{
-    width: 55px;
+    max-width: 55px;
     height: 55px;
     background-position: -130px -3px;
 }
 
 .sprite-p{
-    width: 55px;
+    max-width: 55px;
     height: 55px;
     background-position: -200px -3px;
 }
@@ -67,3 +75,4 @@
 a{
     color: transparent;
 }
+
